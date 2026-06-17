@@ -291,8 +291,8 @@ class _ConnectionPageState extends State<ConnectionPage>
                   child: Center(
                     child: Image.asset(
                       'assets/rustdesk.png',
-                      width: 399, 
-                      height: 106, 
+                      width: 700, 
+                      height: 490, 
                       fit: BoxFit.contain,
                     ),
                   ),
