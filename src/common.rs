@@ -1081,7 +1081,7 @@ fn get_api_server_(api: String, custom: String) -> String {
             return format!("http://{}", s);
         }
     }
-    "https://rd.ydsh.top".to_owned()
+    "https://rd-yun.ydsh.top".to_owned()
 }
 
 #[inline]
